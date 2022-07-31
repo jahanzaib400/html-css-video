@@ -1,0 +1,10 @@
+1) git install
+2) directory/folder/file initilizae git
+3) add file to git locally
+4) commit files
+5) github -> signup directrory/repositry create
+6) push files online
+
+git is like a versionaing tool which we used to save and track record our project.
+task 1
+task2 error=> task1 will destroy
